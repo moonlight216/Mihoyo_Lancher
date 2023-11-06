@@ -1,0 +1,17 @@
+G:\yuan\CODE\start\starter\starter\bin\Debug\net6.0-windows\starter.exe
+G:\yuan\CODE\start\starter\starter\bin\Debug\net6.0-windows\starter.deps.json
+G:\yuan\CODE\start\starter\starter\bin\Debug\net6.0-windows\starter.runtimeconfig.json
+G:\yuan\CODE\start\starter\starter\bin\Debug\net6.0-windows\starter.dll
+G:\yuan\CODE\start\starter\starter\bin\Debug\net6.0-windows\starter.pdb
+G:\yuan\CODE\start\starter\starter\obj\Debug\net6.0-windows\starter.Form1.resources
+G:\yuan\CODE\start\starter\starter\obj\Debug\net6.0-windows\starter.csproj.GenerateResource.cache
+G:\yuan\CODE\start\starter\starter\obj\Debug\net6.0-windows\starter.GeneratedMSBuildEditorConfig.editorconfig
+G:\yuan\CODE\start\starter\starter\obj\Debug\net6.0-windows\starter.AssemblyInfoInputs.cache
+G:\yuan\CODE\start\starter\starter\obj\Debug\net6.0-windows\starter.AssemblyInfo.cs
+G:\yuan\CODE\start\starter\starter\obj\Debug\net6.0-windows\starter.csproj.CoreCompileInputs.cache
+G:\yuan\CODE\start\starter\starter\obj\Debug\net6.0-windows\starter.dll
+G:\yuan\CODE\start\starter\starter\obj\Debug\net6.0-windows\refint\starter.dll
+G:\yuan\CODE\start\starter\starter\obj\Debug\net6.0-windows\starter.pdb
+G:\yuan\CODE\start\starter\starter\obj\Debug\net6.0-windows\starter.genruntimeconfig.cache
+G:\yuan\CODE\start\starter\starter\obj\Debug\net6.0-windows\ref\starter.dll
+G:\yuan\CODE\start\starter\starter\obj\Debug\net6.0-windows\starter.Properties.Resources.resources
